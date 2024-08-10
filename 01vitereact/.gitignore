@@ -32,6 +32,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 desktop.ini
+../desktop.ini
+../package-lock.json
 
 # Build outputs
 dist/
